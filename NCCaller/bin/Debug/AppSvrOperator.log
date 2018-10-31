@@ -1,0 +1,62 @@
+
+2018-04-12 08:18:45 Info AppSvrOperator :: Operator thread started.
+
+2018-04-12 08:18:45 Info AppSvrOperator::Connect :: Connect to server 192.168.36.157:1089.
+
+2018-04-12 08:18:45 Info AppSvrOperator::Connect :: Connecting...
+
+2018-04-12 08:19:06 ERROR AppSvrOperator::DoConnect :: Connect to 192.168.36.157:1089 failed!
+
+2018-04-12 08:19:06 ERROR AppSvrOperator::Connect :: Connect failed!
+
+2018-04-12 08:19:06 Info AppSvrOperator::SynExecute :: Executing command 0 ...
+
+2018-04-12 08:19:06 WARNING AppSvrOperator :: Command 0's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:08 Info AppSvrOperator::SynExecute :: Executing command 3 ...
+
+2018-04-12 08:19:08 WARNING AppSvrOperator :: Command 3's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:09 Info AppSvrOperator::Connect :: Connect to server 192.168.36.157:1089.
+
+2018-04-12 08:19:09 Info AppSvrOperator::Connect :: Connecting...
+
+2018-04-12 08:19:30 ERROR AppSvrOperator::DoConnect :: Connect to 192.168.36.157:1089 failed!
+
+2018-04-12 08:19:30 Info AppSvrOperator::SynExecute :: Executing command 3 ...
+
+2018-04-12 08:19:30 ERROR AppSvrOperator::Connect :: Connect failed!
+
+2018-04-12 08:19:51 ERROR AppSvrOperator::DoConnect :: Connect to 192.168.36.157:1089 failed!
+
+2018-04-12 08:19:51 WARNING AppSvrOperator :: Command 3's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:51 Info AppSvrOperator::SynExecute :: Executing command 0 ...
+
+2018-04-12 08:19:51 WARNING AppSvrOperator :: Command 0's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:51 Info AppSvrOperator::SynExecute :: Executing command 12 ...
+
+2018-04-12 08:19:51 WARNING AppSvrOperator :: Command 12's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:52 Info AppSvrOperator::SynExecute :: Executing command 12 ...
+
+2018-04-12 08:19:52 WARNING AppSvrOperator :: Command 12's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:52 Info AppSvrOperator::SynExecute :: Executing command 12 ...
+
+2018-04-12 08:19:52 WARNING AppSvrOperator :: Command 12's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:52 Info AppSvrOperator::SynExecute :: Executing command 12 ...
+
+2018-04-12 08:19:52 WARNING AppSvrOperator :: Command 12's return flag is not set, it might not be executed by server!
+
+2018-04-12 08:19:55 Info AppSvrOperator::Connect :: Connect to server 192.168.36.157:1089.
+
+2018-04-12 08:19:55 Info AppSvrOperator::Connect :: Connecting...
+
+2018-04-12 08:20:16 ERROR AppSvrOperator::DoConnect :: Connect to 192.168.36.157:1089 failed!
+
+2018-04-12 08:20:16 ERROR AppSvrOperator::Connect :: Connect failed!
+
+2018-04-12 08:20:16 Info AppSvrOperator::SynExecute :: Executing command 3 ...
