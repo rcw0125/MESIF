@@ -1,0 +1,10 @@
+C:\Users\rcw\source\repos\MesCall\testWebService\bin\Debug\testWebService.exe.config
+C:\Users\rcw\source\repos\MesCall\testWebService\bin\Debug\testWebService.exe
+C:\Users\rcw\source\repos\MesCall\testWebService\bin\Debug\testWebService.pdb
+C:\Users\rcw\source\repos\MesCall\testWebService\obj\Debug\testWebService.csprojAssemblyReference.cache
+C:\Users\rcw\source\repos\MesCall\testWebService\obj\Debug\testWebService.Properties.Resources.resources
+C:\Users\rcw\source\repos\MesCall\testWebService\obj\Debug\testWebService.csproj.GenerateResource.cache
+C:\Users\rcw\source\repos\MesCall\testWebService\obj\Debug\testWebService.csproj.CoreCompileInputs.cache
+C:\Users\rcw\source\repos\MesCall\testWebService\obj\Debug\testWebService.exe
+C:\Users\rcw\source\repos\MesCall\testWebService\obj\Debug\testWebService.pdb
+C:\Users\rcw\source\repos\MesCall\testWebService\obj\Debug\testWebService.Form1.resources
